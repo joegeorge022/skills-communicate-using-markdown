@@ -16,4 +16,10 @@ Python Code (Basic)
 
 ```python
 print("Hello, World!")
+```
+
+Given below is a task list
+- [x] Join SJCET College
+- [x] Be a μLearn member
+- [ ] Graduate
 
